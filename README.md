@@ -11,7 +11,7 @@ analyze the data, we sent the results to our partner using Flask to report our f
 - The first conclusion drawn from the analysis is that the mean temperature between the two months remains relatively consistent, with roughly a 4 degree change between them. This 
   is a good sign for our surf shop, as a relatively consistent temperature can ensure good surfing all year long.
 
-- The second conclusion that stands out is the lowest recorded temperature for each month. There is quite a large difference between June (64) and December (56). Although the 
+- The second conclusion that stands out is the lowest recorded temperature for each month. There is quite a large difference between June (64°) and December (56°). Although the 
   average temperatures between the two are relatively consistent, we can expect a few more slower days in the month of December as it gets a bit chillier. This may provide us with 
   an opportunity to also offer additional products like wetsuit rentals however.
   
